@@ -117,10 +117,7 @@
    ```
    ```
 
-**Creating the File:**
-- You can create the README file using any text editor.
-- The `.md` extension indicates it's a Markdown file.
-- Place the README file at the root of your project directory.
+
 
 
 
